@@ -1,0 +1,38 @@
+Folder PATH listing for volume Windows
+Volume serial number is 0A0B-0C57
+C:.
+├───.android
+├───.idlerc
+├───.Ld2VirtualBox
+├───3D Objects
+├───Contacts
+├───Documents
+├───Downloads
+├───Favorites
+│   └───Links
+├───ganesh
+├───Links
+├───Music
+├───OneDrive
+│   ├───Desktop
+│   ├───Documents
+│   │   ├───Custom Office Templates
+│   │   ├───XuanZhi
+│   │   │   ├───Applications
+│   │   │   ├───Misc
+│   │   │   └───Pictures
+│   │   │       └───cache
+│   │   └───Zoom
+│   └───Pictures
+│       ├───Camera Roll
+│       ├───Saved Pictures
+│       │   └───58337MediaAppsDev.PDFOfficePDFEditorReaderMergerCr_fwxdebw7hh1dt!App
+│       └───Screenshots
+├───Rajesh
+├───Saved Games
+├───Searches
+├───Videos
+│   └───Captures
+└───Xilinx
+    └───SysGen
+        └───14.7
